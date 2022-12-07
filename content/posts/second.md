@@ -4,7 +4,7 @@ date: 2022-12-06T17:55:29+07:00
 draft: false
 ---
 
-I love Addo.  He is very talented.  When he speaks to his wife, it sounds like he has marbles in his mouth.  This is funny.  I laugh.  Addo like centjes.  I will get him more centjes to make him happy. 
+I love Addo.  He is very talented.  When he speaks to his wife, it sounds like he has marbles in his mouth.  This is funny.  I laugh.  Addo like centjes.  I will get him more centjes to make him happy. Addo also like code, here is some code for him to read.  
 
 # The largest heading 
 ## The second largest heading
