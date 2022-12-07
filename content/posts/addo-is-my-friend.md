@@ -10,7 +10,7 @@ Addo misses meetings often lately, because he is a bitch.  It makes me blow a ga
 
 ![Scissors](/img/lebowski-scissors.gif "I'm gonna cut your dick off!")
 
-Addo also likes code, here is some code for him to read based on Markdown.    
+Addo also likes code, here is some code for him to read based on Markdown.  Enjoy Addo.   
 
 # The largest heading 
 ## The second largest heading
